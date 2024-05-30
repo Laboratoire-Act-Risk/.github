@@ -10,13 +10,23 @@
 
 ---
 
+## **Le laboratoire en bref**
+
+---
+
+## **Thématiques de recherche**
+
+1.
+
+---
+
 ## ⚠️ **Objectifs**
 
 1. 
 
 ---
 
-### 📚 **Projets**
+## 📚 **Projets**
 
 1. 
 
