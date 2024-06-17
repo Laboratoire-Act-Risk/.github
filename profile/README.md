@@ -39,7 +39,9 @@ Fondé en 2011 et co-dirigé par les professeurs Hélène Cossette et Etienne Ma
 
 ## 👨‍💻 **Membres**
 
-* 
+* Prof. Hélène Cossette (co-directice).
+* Prof. Etienne Marceau (co-directeur).
+* ...
 
 ---
 
