@@ -3,12 +3,12 @@
 <br />
 <div align="center">
   <h1 style="font-size: 48px; color: red;">Laboratoire Act&Risk</h1>
-  <h2 align="center">
+  <p align="center">
     Laboratoire de recherche sur la modélisation et la quantification des risques en actuariat.
-  </h2>
-  <a href="https://www.actrisk.act.ulaval.ca/"><h1 style="font-size: 48px; color: red;"><h2>
+  </p>
+  <p align="center">
     https://www.actrisk.act.ulaval.ca/
-  </h2></a>
+  </p>
 </div>
 
 ---
