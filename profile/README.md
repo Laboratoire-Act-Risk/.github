@@ -45,6 +45,14 @@ Fondé en 2011 et co-dirigé par les professeurs Hélène Cossette et Etienne Ma
 
 * Prof. Hélène Cossette (co-directice).
 * Prof. Etienne Marceau (co-directeur).
+* Julien April (membre).
+* Jérémie Barde (membre).
+* André Orelien Chuisseu Tchuisseu (membre).
+* Benjamin Côté (membre).
+* Alexandre Dubeau (membre).
+* Omar Essakine (membre).
+* Philippe Leblanc (membre).
+* Jean-Gabriel Maheux (membre).
 
 ---
 
