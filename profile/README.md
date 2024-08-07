@@ -25,11 +25,11 @@ Fondé en 2011 et co-dirigé par les professeurs Hélène Cossette et Etienne Ma
 
 ## 🔭 **Thématiques de recherche**
 
-1. Modélisation de la dépendance et mesures de risque
-2. Agrégation des risques et allocation du capital
-3. Modèles dynamiques de risque et mesure de solvabilité
-4. Estimation et tarification en assurance IARD et collective
-5. Utilisation de données massives en actuariat
+1. Modélisation de la dépendance et mesures de risque.
+2. Agrégation des risques et allocation du capital.
+3. Modèles dynamiques de risque et mesure de solvabilité.
+4. Estimation et tarification en assurance IARD et collective.
+5. Utilisation de données massives en actuariat.
 
 ---
 
