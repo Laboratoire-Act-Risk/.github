@@ -43,7 +43,7 @@ Fondé en 2011 et co-dirigé par les professeurs Hélène Cossette et Etienne Ma
 
 ## 👨‍💻 **Membres**
 
-* Prof. Hélène Cossette (co-directice).
+* Prof. Hélène Cossette (co-directrice).
 * Prof. Etienne Marceau (co-directeur).
 * Julien April (membre).
 * Jérémie Barde (membre).
